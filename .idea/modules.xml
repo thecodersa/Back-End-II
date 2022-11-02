@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Back-End-II.iml" filepath="$PROJECT_DIR$/.idea/Back-End-II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosExplicados/ConexaoBD/ConexaoBD.iml" filepath="$PROJECT_DIR$/ExerciciosExplicados/ConexaoBD/ConexaoBD.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExerciciosExplicados/ExerciciosExplicados.iml" filepath="$PROJECT_DIR$/ExerciciosExplicados/ExerciciosExplicados.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mesas/Mesas.iml" filepath="$PROJECT_DIR$/Mesas/Mesas.iml" />
     </modules>
